@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        gradlePluginPortal()
+        maven {url 'https://maven.google.com'}
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven {url 'https://maven.google.com'}
+
+
+    }
+}
+
+rootProject.name = "Ads Demo"
+include ':app'
+include ':AdsDemo'

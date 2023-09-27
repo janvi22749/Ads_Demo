@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351945792111",
+    "project_id": "ads-demo-2b82d",
+    "storage_bucket": "ads-demo-2b82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351945792111:android:897757074381161a140b9a",
+        "android_client_info": {
+          "package_name": "com.example.adsdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTtscZe4egjJJ3nGkJOV7DmJa7l62sSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
